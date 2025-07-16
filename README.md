@@ -1,4 +1,4 @@
 # git
 
 
-[Navštív moju stránku](https://www.example.com)
+[Check my Git Wiki page](https://github.com/renekuda38/git/wiki)
